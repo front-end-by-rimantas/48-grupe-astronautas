@@ -21,6 +21,8 @@ main > div > div {
 }
 main > div > div > a {
 }
+main > div > div > a + a {
+}
 main > div + div {
 }
 main > div > img {
