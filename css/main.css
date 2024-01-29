@@ -105,8 +105,16 @@ body {
 }
 
 .socials {
+    display: flex;
+    gap: 10px;
 }
 .socials > .social-link {
+    font-size: 20px;
+    text-decoration: none;
+    color: grey;
+}
+.socials > .social-link:hover {
+    color: blueviolet;
 }
 
 .copyright-text {
